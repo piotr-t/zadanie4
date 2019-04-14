@@ -12,5 +12,5 @@ class TransformText {
     }
 }
 
-let newText = new TransformText("zając", "królik");
+let newText = new TransformText("free", "ferie");
 console.log(newText);
